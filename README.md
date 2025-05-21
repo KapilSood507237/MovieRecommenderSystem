@@ -37,9 +37,9 @@ Tech Stack
   Python
   Streamlit
   Pandas, NumPy
-Scikit-learn
-NLTK
+  Scikit-learn
+  NLTK
 
-🙋‍♂️ Author
-Developed by Kapil
-Feel free to fork, star the repo or contribute!
+Author
+  Developed by Kapil
+  Feel free to fork, star the repo or contribute!
